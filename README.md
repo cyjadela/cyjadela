@@ -1,40 +1,35 @@
-<!--
-**cyjadela/cyjadela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Cho Yoon Jin | Android Developer </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🌟 Experience </h3>
+<ul>
+   <li> KT DS (2024/07 ~ )</li>
+   <li> SW Maestro 14th (2023/04 ~ 2023/12)</li>
+   <li> Sookmyung Women's University | Software Convergence | GPA : 4.12/4.5 (2019/03 ~ 2024/02) </li>
+   
+</ul>
 
 
+<h3> 🌱 Activites </h3>
+<ul>
+   <li> UMC | Android, Spring (2022/03 ~ 2023/02) </li>
+   <li> COTATO | Android (2019/03 ~ 2024/02) </li>
+   <li> CNTO | Coding Education Volunteer Teacher, Team Leader (2021/09 ~ 2023/02) </li>
+   <li> FORZA | Algorithm Study Club (2019/03 ~ 2021/02) </li>
+</ul>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFCC33&height=100&section=header&text=&fontSize=40" />
+<h3> 💻 Projects </h3>
+<ul>
+   <li> <A href="https://github.com/co-niverse/dangjang-android"> Dangjang</A> | Android (2023/06 ~ 2023/11) </li>
+   <li> <A href="https://github.com/Zeroway-GreenFriends/Zeroway-Android"> Zeroway</A> | Android (2022/08 ~ 2022/11) </li>
+   <li> <A href="https://github.com/PreView-Team/Preview_Android">Preview</A> | Android (2022/05 ~ 2022/08) </li>
+   <li> <A href="https://github.com/TeamSpectory/Spectory_FrontEnd">Spectory</A> | Android (2022/05 ~ 2022/07) </li>
+   <li> <A href="https://github.com/TeamSpectory/Spectory_FrontEnd">PLAS</A> | Android (2022/01 ~ 2022/02) </li>
+   
+   <li> <A href="https://github.com/Flow-UMC/Flow-Server">Flow</A> | Spring (2023/01 ~ 2023/02) </li>
+   <li> <A href="https://github.com/Wakey-wakey-2023/Wakey-iOS">Wakey</A> | iOS (2023/01 ~ 2023/02) </li>
+</ul>
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyjadela&show_icons=true&title_color=FFCC33&icon_color=FFCC33)
 
-<h3>Skills</h3>
-<p>
-   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
-   
-   <br>
-   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
-   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
-   
-   <br>
-   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFCC33&height=100&section=footer&text=&fontSize=40" />
