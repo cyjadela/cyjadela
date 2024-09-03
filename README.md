@@ -12,7 +12,7 @@
 <h3> 🌱 Activites </h3>
 <ul>
    <li> UMC | Android, Spring (2022/03 ~ 2023/02) </li>
-   <li> COTATO | Android (2019/03 ~ 2024/02) </li>
+   <li> COTATO | Android (2022/01 ~ 2022/06) </li>
    <li> CNTO | Coding Education Volunteer Teacher, Team Leader (2021/09 ~ 2023/02) </li>
    <li> FORZA | Algorithm Study Club (2019/03 ~ 2021/02) </li>
 </ul>
