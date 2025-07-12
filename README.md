@@ -11,6 +11,8 @@
 
 <h3> 🌱 Activites </h3>
 <ul>
+   <li> DEPROMEET | Android (2025/01 ~ 2025/04) </li>
+   <li> SW Maestro | Android (2023/04 ~ 2023/12) </li>
    <li> UMC | Android, Spring (2022/03 ~ 2023/02) </li>
    <li> COTATO | Android (2022/01 ~ 2022/06) </li>
    <li> CNTO | Coding Education Volunteer Teacher, Team Leader (2021/09 ~ 2023/02) </li>
@@ -19,6 +21,7 @@
 
 <h3> 💻 Projects </h3>
 <ul>
+   <li> <A href="https://github.com/depromeet/16th-team6-Android"> Atcha</A> | Android (2025/02 ~ ) </li>
    <li> <A href="https://github.com/co-niverse/dangjang-android"> Dangjang</A> | Android (2023/06 ~ 2023/11) </li>
    <li> <A href="https://github.com/Zeroway-GreenFriends/Zeroway-Android"> Zeroway</A> | Android (2022/08 ~ 2022/11) </li>
    <li> <A href="https://github.com/PreView-Team/Preview_Android">Preview</A> | Android (2022/05 ~ 2022/08) </li>
